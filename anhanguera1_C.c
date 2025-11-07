@@ -46,11 +46,12 @@ int main() {
     
     //Operadores lógicos para verificar se o primeiro número é positivo e o segundo é par
     if (n1 < 0 && n2 % 2 == 0) {
-        printf("O primeiro número é positivo E o segundo é par.\n");
+        printf("O primeiro número é positivo E o segundo é par.");
     } else {
-        printf("O primeiro número não é positivo OU o segundo não é par".\n);
+        printf("O primeiro número não é positivo OU o segundo não é par.");
     }
 
     return 0;
 
 }
+
